@@ -1,42 +1,50 @@
 https://github.com/user-attachments/assets/32a91750-7c67-4486-9964-f20d41edafa1
 
-# Olá, eu sou o Guilherme 👋
+<div align="center">
 
-Desenvolvedor **Full Stack** na **LLE LEE**. Construo sistemas internos, integrações com ERP e sites para empresas — do banco de dados ao deploy.
+# Guilherme Oliveira
 
-### 🛠️ Stack
+**Desenvolvedor Full Stack · LLE LEE**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+Construo sistemas internos, integrações com ERP e sites para empresas — do banco de dados ao deploy.
 
-### 🏢 Sistemas em produção
+<br>
 
-> Código privado — sistemas usados no dia a dia de operação.
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=D97757" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=D97757" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=D97757" alt="React">
+<img src="https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=D97757" alt="Next.js">
+<img src="https://img.shields.io/badge/React_Native-0D0D0D?style=for-the-badge&logo=react&logoColor=D97757" alt="React Native">
+<br>
+<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=D97757" alt="Node.js">
+<img src="https://img.shields.io/badge/NestJS-0D0D0D?style=for-the-badge&logo=nestjs&logoColor=D97757" alt="NestJS">
+<img src="https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=D97757" alt="Express">
+<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=D97757" alt="Supabase">
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=D97757" alt="MySQL">
+<img src="https://img.shields.io/badge/Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=D97757" alt="Vercel">
 
-**[LLE — Gestão de Pedidos](https://llelle.vercel.app)** · React · Express · Supabase
-Sistema de gestão integrado ao Olist ERP, com painéis em tempo real para acompanhar a fila de separação no estoque.
+</div>
 
-**[DisparoY](https://disparoy-frontend.vercel.app)** · NestJS · React · TypeScript
-Plataforma de campanhas de mensagens via WhatsApp, com gestão de contatos, templates e relatórios de envio.
+<br>
 
-### 🚀 Projetos públicos
+<h3 align="center">Sistemas em produção</h3>
+<p align="center"><sub>Código privado — sistemas usados no dia a dia da operação.</sub></p>
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**techmobi**](https://github.com/yorkt1/techmobi) · [site](https://techmobi.vercel.app) | Site institucional para corretor de imóveis | React · Vite · Supabase |
-| [**softvances**](https://github.com/yorkt1/softvances) · [site](https://softvances.vercel.app) | Aplicação web full stack | TanStack Start · TypeScript |
-| [**Flower Experience**](https://github.com/yorkt1/Tec-desenvolvimento-PlantExperience-ReactNative) | App mobile para descobrir e favoritar espécies de plantas | React Native · Express · MySQL |
-| [**Portfolio**](https://github.com/yorkt1/Portfolio) | Meu portfólio pessoal | React · Vite |
+<p align="center">
+  <a href="https://llelle.vercel.app"><img src="assets/lle.svg" width="49%" alt="LLE — Gestão de Pedidos"></a>
+  <a href="https://disparoy-frontend.vercel.app"><img src="assets/disparoy.svg" width="49%" alt="DisparoY"></a>
+</p>
 
-### 📊 Atividade
+<br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yorkt1&show_icons=true&hide_border=true&count_private=true)
+<h3 align="center">Projetos públicos</h3>
+<p align="center"><sub>Código aberto — clique para ver o repositório.</sub></p>
+
+<p align="center">
+  <a href="https://github.com/yorkt1/techmobi"><img src="assets/techmobi.svg" width="49%" alt="techmobi"></a>
+  <a href="https://github.com/yorkt1/softvances"><img src="assets/softvances.svg" width="49%" alt="softvances"></a>
+  <a href="https://github.com/yorkt1/Tec-desenvolvimento-PlantExperience-ReactNative"><img src="assets/flower.svg" width="49%" alt="Flower Experience"></a>
+  <a href="https://github.com/yorkt1/Portfolio"><img src="assets/portfolio.svg" width="49%" alt="Portfolio"></a>
+</p>
+
+<p align="center"><sub>Sites no ar: <a href="https://techmobi.vercel.app">techmobi</a> · <a href="https://softvances.vercel.app">softvances</a></sub></p>
