@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/32a91750-7c67-4486-9964-f20d41edafa1
+
 # Olá, eu sou o Guilherme 👋
 
 Desenvolvedor **Full Stack** na **LLE LEE**. Construo sistemas internos, integrações com ERP e sites para empresas — do banco de dados ao deploy.
