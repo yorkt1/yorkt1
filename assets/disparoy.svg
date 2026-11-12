@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190">
-<rect x="0.5" y="0.5" width="419" height="189" rx="14" fill="#0D0D0D" stroke="#2A2623"/>
-<rect x="28" y="24" width="99" height="22" rx="11" fill="#D97757" fill-opacity="0.14"/>
-<text x="78" y="39" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="10.5" font-weight="600" letter-spacing="1" fill="#E89A7C">EM PRODUÇÃO</text>
-<text x="388" y="42" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#6B655E">↗</text>
-<text x="28" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#F5F1EA">DisparoY</text>
-<text x="28" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B8B2A7">Campanhas de mensagens via WhatsApp, com</text><text x="28" y="129" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B8B2A7">contatos, templates e relatórios de envio.</text>
-<line x1="28" y1="150" x2="392" y2="150" stroke="#2A2623"/>
-<text x="28" y="172" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#D97757">NestJS · React · TypeScript</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="104" viewBox="0 0 830 104" role="img" aria-label="02 — DisparoY. Campanhas de WhatsApp, com contatos, templates e relatórios. NestJS · React · TypeScript."><style>
+.i{fill:#1B1815}.m{fill:#6F6861}.a{fill:#B4542F}.r{stroke:#DDD6CD}
+@media (prefers-color-scheme:dark){.i{fill:#EEE8E0}.m{fill:#9A9288}.a{fill:#E58D6B}.r{stroke:#34302B}}
+.s{font-family:Georgia,'Times New Roman',serif}.f{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}.c{font-family:ui-monospace,'SF Mono','Cascadia Mono',Consolas,Menlo,monospace;letter-spacing:1.4px}
+</style><line x1="0" y1="0.5" x2="830" y2="0.5" class="r" stroke-width="1"/><text x="0" y="47" class="c a" font-size="12">02</text><text x="52" y="49" class="s i" font-size="29">DisparoY</text><text x="830" y="46" class="c m" font-size="11" text-anchor="end">EM PRODUÇÃO</text><text x="52" y="80" class="f m" font-size="16">Campanhas de WhatsApp, com contatos, templates e relatórios.</text><text x="830" y="79" class="c m" font-size="11" text-anchor="end">NESTJS · REACT · TYPESCRIPT</text></svg>
